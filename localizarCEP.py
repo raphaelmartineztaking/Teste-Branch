@@ -1,5 +1,5 @@
 import requests
-
+print("Olá")
 def main():
 
     print("---Consulta CEP---")
