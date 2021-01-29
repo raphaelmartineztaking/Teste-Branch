@@ -13,13 +13,20 @@
 3 - Marcar a caixa Add Python 3.x to PATH na primeira janela;<br>
 4 - Instalar.
 
-<h3>Baixar biblioteca de Requests do Python</h3>
+<h3>Baixar biblioteca de Requests do Python:</h3>
 1 - Abrir o prompt de comando;<br>
 2 - realizar o seguinte comando:<br>
 
 ``` 
 pip install requests
 ``` 
+
+<h3>Instalar a extensão do Python no VSCode:<h3>
+
+<p><a target="_blank" rel="noopener noreferrer" href="/raphaelmartineztaking/Teste-Branch/blob/main/python.png"><img alt="Viacep" title="#Viacep" src="/contri-dev/ConsumoAPI-Correios/raw/main/python.png" style="max-width:100%;"></a></p>
+
+
+
 
 
 
