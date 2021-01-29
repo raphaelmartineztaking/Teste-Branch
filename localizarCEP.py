@@ -1,6 +1,7 @@
 import requests
 
 def main():
+    print("Alteração raphael")
     print("---Consulta CEP---")
     cep = input("Digite o CEP: ")
 
