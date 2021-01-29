@@ -15,7 +15,8 @@
 
 <h3>Baixar biblioteca de Requests do Python</h3>
 1 - Abrir o prompt de comando;<br>
-2 - realizar o seguinte comando:
+2 - realizar o seguinte comando:<br>
+
 ``` 
 pip install requests
 ``` 
