@@ -10,7 +10,7 @@
 <h3><i>Instalar o Python:</i></h3>
 1 - Acessar https://www.python.org/<br>
 2 - Fazer o download;<br>
-3 - Marcar a caixa Add Python 3.x to PATH na primeira janela;<br>
+3 - Marcar a caixa Add Pyhon 3.x to PATH na primeira janela;<br>
 4 - Instalar.
 
 <h3><i>Baixar biblioteca de Requests do Python:</i></h3>
