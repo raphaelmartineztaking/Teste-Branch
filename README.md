@@ -3,8 +3,8 @@
 <h2>Passo-a-passo</h2>
 <h3>Instalar o GIT:</H3>
 
-1 - Acessar https://git-scm.com/
-2 - Fazer o download;
+1 - Acessar https://git-scm.com/<br>
+2 - Fazer o download;<br>
 3 - Instalar.
 
 ``` 
