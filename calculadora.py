@@ -10,3 +10,6 @@ print("soma : ", som)
 print("subtração: ", sub)
 print("multiplicação: ", mult)
 print("divisão: ", div)
+
+
+print("Olá mundo \n Taking")
