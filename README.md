@@ -15,7 +15,7 @@
 
 <h3><i>Baixar biblioteca de Requests do Python:</i></h3>
 1 - Abrir o prompt de comando;<br>
-2 - realizar o seguinte comando:<br>
+2 - Executar o seguinte comando:<br>
 
 ``` 
 pip install requests
@@ -28,7 +28,7 @@ pip install requests
 <h3>Clonar o repositório do GitHub</h3>
 1 - Criar uma pasta e abri-lá no VSCode;<br>
 2 - Abrir o terminal do VSCode;<br>
-3 - Inserir os seguinte comando:<br>
+3 - Executar os seguintes comandos:<br>
 
 ``` 
 git clone https://github.com/raphaelmartineztaking/Teste-Branch.git
