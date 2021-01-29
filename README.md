@@ -25,13 +25,16 @@ pip install requests
   
 ![python](https://user-images.githubusercontent.com/78089312/106281680-4fa9c880-621e-11eb-818f-eba809f92285.png)
   
-<h3>Clonar o repisotório do GitHub</h3>
+<h3>Clonar o repositório do GitHub</h3>
 1 - Criar uma pasta e abri-lá no VSCode;<br>
 2 - Abrir o terminal do VSCode;<br>
-3 - Inserir o seguinte comando:<br>
+3 - Inserir os seguinte comando:<br>
 
 ``` 
 git clone https://github.com/raphaelmartineztaking/Teste-Branch.git
+cd Teste-Branch
+python calculadora.py (sistema calculadora)
+python localizarCEP.py (sistema localizar CEP)
 ``` 
 
 
