@@ -22,8 +22,16 @@ pip install requests
 ``` 
 
 <h3><i>Instalar a extensão do Python no VSCode:</i><h3>
-
 ![python](https://user-images.githubusercontent.com/78089312/106281680-4fa9c880-621e-11eb-818f-eba809f92285.png)
+  
+<h3>Clonar o repisotório do GitHub</h3>
+1 - Criar uma pasta e abri-lá no VSCode;<br>
+2 - Abrir o terminal do VSCode;<br>
+3 - Inserir o seguinte comando:<br>
+``` 
+git clone https://github.com/raphaelmartineztaking/Teste-Branch.git
+``` 
+
 
 
 
