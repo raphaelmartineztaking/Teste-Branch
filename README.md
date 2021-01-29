@@ -23,8 +23,7 @@ pip install requests
 
 <h3><i>Instalar a extensão do Python no VSCode:</i><h3>
 
-<p><a target="_blank" rel="noopener noreferrer" href="/raphaelmartineztaking/Teste-Branch/main/python.png"><src="/raphaelmartineztaking/Teste-Branch/main/python.png" style="max-width:100%;"></a></p>
-
+![python](https://user-images.githubusercontent.com/78089312/106281680-4fa9c880-621e-11eb-818f-eba809f92285.png)
 
 
 
